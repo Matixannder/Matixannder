@@ -1,8 +1,8 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=400&color=F70000&width=590&height=100&lines=Mat%C3%ADas+Alarc%C3%B3n;Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=400&color=F70000&center=true&vCenter=true&width=590&height=100&lines=Mat%C3%ADas+Alarc%C3%B3n;Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
-## Tech STack
+## Tech Stack
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
