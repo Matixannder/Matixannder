@@ -24,9 +24,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" />
 </p>
 
-<picture>
-<img src="https://raw.githubusercontent.com/Matixannder/Matixannder/main/personal_info.svg">
-</picture>
-<picture>
-<img src="https://raw.githubusercontent.com/Matixannder/Matixannder/main/contact_info.svg">
-</picture>
+<img src="./personal_info.svg">
