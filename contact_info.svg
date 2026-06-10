@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="460"
+     width="560"
      height="120"
      font-family="ConsolasFallback,Consolas,monospace"
      font-size="16">
@@ -10,26 +10,26 @@
     .cc { fill: #616e7f; }
   </style>
 
-  <rect width="460" height="120" fill="#161b22" rx="15"/>
+  <rect width="560" height="120" fill="#161b22" rx="15"/>
 
   <text fill="#c9d1d9">
 
-    <tspan x="20" y="30">@Matixannder</tspan>
+    <tspan x="20" y="30">- Contact</tspan>
 
-    <tspan x="20" y="55">────────────────────────────────────</tspan>
+    <tspan x="20" y="55">────────────────────────────────────────────</tspan>
 
     <tspan x="20" y="85">
       <tspan class="cc">.</tspan>
-      <tspan class="key"> Name</tspan>
+      <tspan class="key"> Email</tspan>
       <tspan>: </tspan>
-      <tspan class="value">Matías Alarcón</tspan>
+      <tspan class="value">your@email.com</tspan>
     </tspan>
 
     <tspan x="20" y="110">
       <tspan class="cc">.</tspan>
-      <tspan class="key"> Age</tspan>
+      <tspan class="key"> LinkedIn</tspan>
       <tspan>: </tspan>
-      <tspan class="value">22</tspan>
+      <tspan class="value">linkedin.com/in/your-profile</tspan>
     </tspan>
 
   </text>

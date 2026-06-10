@@ -24,4 +24,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" />
 </p>
 
-<img src="./personal_info.svg">
+<p align="center">
+  <img src="./contact_info.svg" alt="Contacts">
+</p>
