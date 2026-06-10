@@ -30,7 +30,7 @@
 
     <!-- Header -->
     <tspan x="40" y="40">- Contact</tspan>
-    <tspan x="40" y="65">────────────────────────────────────────────────</tspan>
+    <tspan x="40" y="65">────────────────────────────────────────────────────────────────────────────</tspan>
 
     <!-- Email -->
     <tspan x="40" y="105" class="cc">.</tspan>
@@ -44,7 +44,7 @@
     <tspan class="key"> LinkedIn</tspan>
     <tspan>: </tspan>
     <tspan class="cc">...................</tspan>
-    <tspan class="value">  linkedin.com/in/your-profile</tspan>
+    <tspan class="value"> linkedin.com/in/your-profile</tspan>
 
   </text>
 
