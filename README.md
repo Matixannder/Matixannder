@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&background=5A5A5A00&center=true&vCenter=true&width=590&height=100&lines=Mat%C3%ADas+Alarc%C3%B3n;Desarrollador+Fullstack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=400&color=F70000&width=590&height=100&lines=Mat%C3%ADas+Alarc%C3%B3n;Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 ## Tech STack
@@ -40,6 +40,6 @@ will see the projects that I have worked and I am working on.
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matías-alarcónn)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:matias.alarconn.go@gmail.com)
+[![Email](https://img.shields.io/badge/Email-matias.alarconn.go%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:matias.alarconn.go@gmail.com)
 
 
