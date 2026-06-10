@@ -25,8 +25,8 @@
 </p>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matixannder/Matixannder/main/personal_info.svg">
+<img src="https://raw.githubusercontent.com/Matixannder/Matixannder/main/personal_info.svg">
 </picture>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matixannder/Matixannder/main/contact_info.svg">
+<img src="https://raw.githubusercontent.com/Matixannder/Matixannder/main/contact_info.svg">
 </picture>
