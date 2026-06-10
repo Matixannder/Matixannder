@@ -1,24 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px"><title>Contacts</title>
-<style>
-@font-face {
-src: local('Consolas'), local('Consolas Bold');
-     font-family: 'ConsolasFallback';
-     font-display: swap;
-     -webkit-size-adjust: 109%;
-     size-adjust: 109%;
-}
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
-text, tspan {white-space: pre;}
-</style>
-<rect width="985px" height="530px" fill="#161b22" rx="15"/>
-<text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">- Contact</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Email: </tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">matias.alarconn.go@gmail.com</tspan>
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Linkedin: </tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">linkedin.com/in/matías-alarcónn</tspan>
-</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+     font-family="ConsolasFallback,Consolas,monospace"
+     width="985"
+     height="530"
+     font-size="16">
 
+  <title>Contacts</title>
+
+  <style>
+    @font-face {
+      src: local('Consolas'), local('Consolas Bold');
+      font-family: 'ConsolasFallback';
+      font-display: swap;
+      -webkit-size-adjust: 109%;
+      size-adjust: 109%;
+    }
+
+    .key { fill: #ffa657; }
+    .value { fill: #a5d6ff; }
+    .cc { fill: #616e7f; }
+
+    text, tspan {
+      white-space: pre;
+    }
+  </style>
+
+  <rect width="300" height="50" fill="#161b22" rx="15"/>
+
+  <text fill="#c9d1d9">
+
+    <!-- Header -->
+    <tspan x="40" y="40">- Contact</tspan>
+    <tspan x="40" y="65">────────────────────────────────────────────────────────────────────────────</tspan>
+
+    <!-- Email -->
+    <tspan x="40" y="105" class="cc">.</tspan>
+    <tspan class="key"> Email</tspan>
+    <tspan>: </tspan>
+    <tspan class="cc">......................</tspan>
+    <tspan class="value"> matias.alarconn.go@gmail.com</tspan>
+
+    <!-- LinkedIn -->
+    <tspan x="40" y="135" class="cc">.</tspan>
+    <tspan class="key"> LinkedIn</tspan>
+    <tspan>: </tspan>
+    <tspan class="cc">...................</tspan>
+    <tspan class="value">  linkedin.com/in/your-profile</tspan>
+
+  </text>
+
+</svg>

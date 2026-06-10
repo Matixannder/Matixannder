@@ -1,24 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px"><title>Personal Info</title>
-<style>
-@font-face {
-src: local('Consolas'), local('Consolas Bold');
-     font-family: 'ConsolasFallback';
-     font-display: swap;
-     -webkit-size-adjust: 109%;
-     size-adjust: 109%;
-}
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
-text, tspan {white-space: pre;}
-</style>
-<rect width="400px" height="200" fill="#161b22" rx="15"/>
-<text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">@Matixannder</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Name: </tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Matías Alarcón</tspan>
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Age: </tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">22</tspan>
-</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="985"
+     height="530"
+     font-family="Consolas, monospace"
+     font-size="16">
 
+  <style>
+    .key { fill: #ffa657; }
+    .value { fill: #a5d6ff; }
+    .cc { fill: #616e7f; }
+  </style>
+
+  <rect width="300" height="50" fill="#161b22" rx="15"/>
+
+  <text fill="#c9d1d9">
+
+    <tspan x="40" y="40">@Matixannder</tspan>
+    <tspan x="40" y="65">────────────────────────────────────────────────────────────────────────────</tspan>
+
+    <tspan x="40" y="100" class="cc">.</tspan>
+    <tspan class="key"> Name</tspan>
+    <tspan>: </tspan>
+    <tspan class="cc">....................</tspan>
+    <tspan class="value"> Matías Alarcón</tspan>
+
+    <tspan x="40" y="130" class="cc">.</tspan>
+    <tspan class="key"> Age</tspan>
+    <tspan>: </tspan>
+    <tspan class="cc">.....................</tspan>
+    <tspan class="value"> 22</tspan>
+
+  </text>
+
+</svg>
