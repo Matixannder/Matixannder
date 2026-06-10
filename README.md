@@ -33,13 +33,13 @@ will see the projects that I have worked and I am working on.
 
 ## Projects
 
-[![App for reserving sites in a camping site](https://img.shields.io/badge/Project_One-Link-181717?style=for-the-badge&logo=github)](https://github.com/Matixannder/CampingReservationsApp)
-[![Direct message application](https://img.shields.io/badge/Project_Two-Link-181717?style=for-the-badge&logo=github)](https://github.com/Matixannder/MessagesRoom)
-[![Project Generation (Coming soon...)](https://img.shields.io/badge/Project_Three-Link-181717?style=for-the-badge&logo=github)](#)
+[![Application for setting reservations in a camping site](https://img.shields.io/badge/Camping_Reservations-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Matixannder/CampingReservationsApp)
+[![Application for direct messaging](https://img.shields.io/badge/Messages_Room-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Matixannder/MessagesRoom)
+[![Project for Generation Bootcamp](https://img.shields.io/badge/Generation_Bootcamp-Coming_Soon-555555?style=for-the-badge)](https://github.com/Matixannder)
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matías-alarcónn)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](matias.alarconn.go@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF7139?style=for-the-badge&logo=firefox)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:matias.alarconn.go@gmail.com)
+
 
