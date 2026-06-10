@@ -28,8 +28,8 @@
 
 ## Summary
 
-Welcome to what I could not describe as nothing else but my garage. Here you
-will see the projects that I have worked and I am working on.
+
+My name is Matías. I am a Full Stack Developer with 3+ years in this field  and I welcome to what I couldn't describe otherwise but as my garage. Here you will see the projects that I have worked and I am working on.
 
 ## Projects
 
