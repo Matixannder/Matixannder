@@ -24,13 +24,13 @@
     }
   </style>
 
-  <rect width="300" height="50" fill="#161b22" rx="15"/>
+  <rect width="985" height="530" fill="#161b22" rx="15"/>
 
   <text fill="#c9d1d9">
 
     <!-- Header -->
     <tspan x="40" y="40">- Contact</tspan>
-    <tspan x="40" y="65">────────────────────────────────────────────────────────────────────────────</tspan>
+    <tspan x="40" y="65">────────────────────────────────────────────────</tspan>
 
     <!-- Email -->
     <tspan x="40" y="105" class="cc">.</tspan>

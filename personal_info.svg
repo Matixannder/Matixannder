@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="200"
-     height="85"
+     width="985"
+     height="530"
      font-family="Consolas, monospace"
      font-size="16">
 
@@ -10,20 +10,20 @@
     .cc { fill: #616e7f; }
   </style>
 
-  <rect width="200" height="85" fill="#161b22" rx="15"/>
+  <rect width="985" height="530" fill="#161b22" rx="15"/>
 
   <text fill="#c9d1d9">
 
-    <tspan x="10" y="10">@Matixannder</tspan>
-    <tspan x="10" y="25">────────────────────────────────────────────────</tspan>
+    <tspan x="40" y="40">@Matixannder</tspan>
+    <tspan x="40" y="65">────────────────────────────────────────────────────────────────────────────</tspan>
 
-    <tspan x="10" y="50" class="cc">.</tspan>
+    <tspan x="40" y="100" class="cc">.</tspan>
     <tspan class="key"> Name</tspan>
     <tspan>: </tspan>
     <tspan class="cc">....................</tspan>
     <tspan class="value"> Matías Alarcón</tspan>
 
-    <tspan x="10" y="75" class="cc">.</tspan>
+    <tspan x="40" y="130" class="cc">.</tspan>
     <tspan class="key"> Age</tspan>
     <tspan>: </tspan>
     <tspan class="cc">.....................</tspan>
