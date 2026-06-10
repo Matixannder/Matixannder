@@ -1,6 +1,8 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&background=5A5A5A00&center=true&vCenter=true&width=490&height=70&lines=Mat%C3%ADas+Alarc%C3%B3n;Desarrollador+Fullstack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&background=5A5A5A00&center=true&vCenter=true&width=590&height=100&lines=Mat%C3%ADas+Alarc%C3%B3n;Desarrollador+Fullstack" alt="Typing SVG" /></a>
 </p>
+
+## Tech STack
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
@@ -24,6 +26,20 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" />
 </p>
 
-<p align="center">
-  <img src="./contact_info.svg" alt="Contacts">
-</p>
+## Summary
+
+Welcome to what I could not describe as nothing else but my garage. Here you
+will see the projects that I have worked and I am working on.
+
+## Projects
+
+[![App for reserving sites in a camping site](https://img.shields.io/badge/Project_One-Link-181717?style=for-the-badge&logo=github)](https://github.com/Matixannder/CampingReservationsApp)
+[![Direct message application](https://img.shields.io/badge/Project_Two-Link-181717?style=for-the-badge&logo=github)](https://github.com/Matixannder/MessagesRoom)
+[![Project Generation (Coming soon...)](https://img.shields.io/badge/Project_Three-Link-181717?style=for-the-badge&logo=github)](#)
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matías-alarcónn)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](matias.alarconn.go@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF7139?style=for-the-badge&logo=firefox)](#)
+
